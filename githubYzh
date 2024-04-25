@@ -1,0 +1,5 @@
+public class GithubYzh {
+    public static void main(String[] args) {
+        System.out.println("这将上传到仓库");
+    }
+}
